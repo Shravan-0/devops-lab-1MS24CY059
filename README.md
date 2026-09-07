@@ -1,6 +1,6 @@
 # DevOps Lab
 
-Main branch documentation
+This is my DevOps laboratory project.
 
 ## Endpoints
 
